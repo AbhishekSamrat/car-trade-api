@@ -5,7 +5,7 @@ const cors = require("cors");
 const app = express();
 const PORT = 9000;
 
-const MONGO_URI = "mongodb://localhost:27017/";
+const MONGO_URI = "mongodb+srv://ak6339742:4ymw4kgGc6uU1HOC@cluster0.ses0a.mongodb.net/";
 const DB_NAME = "vehicles";
 const COLLECTION_NAME = "vehicle";
 
